@@ -1,0 +1,46 @@
+body{
+width: 100%;
+background-color: rgb(132, 0, 255);
+
+}
+
+
+div u1 {
+text-align: center;
+font-size: medium;
+padding-left: 10%;
+padding-top: 1%;
+background-color: aquamarine;
+
+}
+
+div ul li{
+text-decoration: solid;
+text-shadow: 1pc;
+inset-inline-end: left;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+div ul button{
+        padding: 1%;
+        width: 150px;
+        size: 1%;
+        color: black;
+        text-decoration-color: white;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border-width: 10%;
+
+    
+
+}
